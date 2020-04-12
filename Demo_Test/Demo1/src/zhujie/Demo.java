@@ -21,4 +21,8 @@ public class Demo {
         demo1();
     }
 
+    public void  hh(){
+        System.out.println("dd");
+    }
+
 }

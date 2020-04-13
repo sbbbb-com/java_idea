@@ -9,8 +9,8 @@ public class TestComparable {
         s1.setAge(18);
         s1.setUsername("小红");
         Student s2 = new Student();
-        s1.setAge(14);
-        s1.setUsername("小明");
+        s2.setAge(14);
+        s2.setUsername("小明");
 
         Comparable max=getMax(s1,s2);
         System.out.println(max);

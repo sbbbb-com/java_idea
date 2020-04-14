@@ -18,6 +18,8 @@ public class 希尔排序 {
     private static void method(int[] arr) {
         int temp=0;
         int count=0;
+        //希尔排序开始
+        //分组
         for (int gap=arr.length/2;gap>0;gap/=2){
             for (int i=gap;i<arr.length;i++){
                 //内循环中 gap组 遍历各组中的所有元素 每一组有 元素  步长为gap

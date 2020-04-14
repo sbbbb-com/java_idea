@@ -5,7 +5,8 @@ import java.util.Arrays;
 public class 冒泡排序法 {
     public static void main(String[] args) {
         int a[]={8,96,2,0,3,4,5,1,2,0,0,67,34,43,-1};
-        bubbeTest(a);
+        int arr[]={1,8,0,0,5,3,5,7,2,1,82,4};
+        bubbeTest(a );
 
     }
 
@@ -16,8 +17,8 @@ public class 冒泡排序法 {
      */
     public static void bubbeTest(int[] arr){
         //排序是从大到小排序
-        for (int i = 1; i <arr.length-1; i++) {
-            for (int j = 0; j < i; j++) {
+        for (int i = 1; i <arr.length; i++) {
+            for (int j = 0; j < i-1; j++) {
                 if (arr[i]>arr[j]){
                     int temp;
                     temp=arr[i];

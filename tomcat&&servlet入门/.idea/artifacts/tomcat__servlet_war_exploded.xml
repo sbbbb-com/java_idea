@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tomcat&amp;&amp;servlet入门:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tomcat__servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tomcat&amp;&amp;servlet入门/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tomcat&amp;&amp;servlet入门" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

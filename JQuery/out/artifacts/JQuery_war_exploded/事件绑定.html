@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script>
+        //1.给b1按钮添加事件
+        //
+        // window.onload=function(){}
+        // //1.获取b1对象
+        // $("#b1").click(function () {
+        //     alert("abc");
+        // })
+        //jquery的入口函数，dom文档加载完成之后执行该函数代码
+        /*
+        $(function () {
+           //1.获取b1对象
+        $("#b1").click(function () {
+               alert("abc");
+           })
+        })
+        */
+        /**
+         * windown.onload 和$(Function)区别
+         */
+        // window.onload=function () {
+        // alert("dd")
+        // }
+        $(function () {
+            $("#div1").css("background-color","red");
+        })
+
+
+    </script>
+</head>
+<body>
+<div id="div1">div1......</div>
+<div id="div2">div2......</div>
+<input type="button" value="点我" id="b1">
+
+
+
+
+</body>
+</html>

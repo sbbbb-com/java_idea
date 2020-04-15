@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>01-jQuery对象进行方法扩展</title>
+    <script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+    <script src="https://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        //对全局方法扩展2个方法，扩展min方法：求2个值的最小值；扩展max方法：求2个值最大值
+        $.extend({
+            max:function (a,b) {
+                //返回两数中的最大值
+                return a>=b?a: b;
+            },
+            min:function (a,b) {
+                //返回两数中的最小值
+                return a>=b ?b : a;
+            }
+
+
+        })
+        //调用全局方法最大值
+            var max=$.max(7,98);
+        alert(max);
+        //调用全局方法最小值
+        var  min=(85.2,50.3);
+        alert(min);
+    </script>
+</head>
+<body>
+</body>
+</html>
+

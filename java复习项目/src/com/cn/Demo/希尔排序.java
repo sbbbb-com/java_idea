@@ -17,7 +17,6 @@ public class 希尔排序 {
      */
     private static void method(int[] arr) {
         int temp=0;
-        int count=0;
         //希尔排序开始
         //分组
         for (int gap=arr.length/2;gap>0;gap/=2){
@@ -32,7 +31,6 @@ public class 希尔排序 {
                     }
                 }
             }
-            System.out.println("第"+(++count)+"轮"+Arrays.toString(arr));
         }
 
 /*       //分析过程

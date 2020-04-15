@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>json</title>
+    <script>
+        //1.定义基本格式
+        var person1 ={"name":"张三","age":23,'gender':true};
+        // alert(person);
+        //获取name的值
+        //var name=person1.name;
+        //var name=person1["name"];
+        //alert(name);
+
+
+        //2.嵌套格式 {}---->[]
+        var person2={"persons":[{"name":"张三","age":23,"gender":true},
+                                {"name":"李四","age":3,"gender":false},
+                                {"name":"王五","age":2,"gender":true}
+                                ]};
+        // alert(persons)
+        //获取王五值
+        var name1 = person2.persons[2].name;
+        //alert(name1);
+
+        //嵌套格式  [] -->{}
+        var person3=[   {"name":"张三","age":23,"gender":true},
+                        {"name":"李四","age":3,"gender":false},
+                        {"name":"王五","age":2,"gender":true}
+                        ];
+        //alert(person3);
+        //获取李四年龄的值
+        var age = person3[1].age;
+        alert(age);
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

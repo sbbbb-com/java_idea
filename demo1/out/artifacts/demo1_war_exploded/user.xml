@@ -1,0 +1,18 @@
+
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+
+<users>
+    <user>
+        <name>zhangsan</name>
+        <age>13</age>
+        <gender>male</gender>
+    </user>
+
+    <user>
+        <name>lisi</name>
+        <age>25</age>
+        <gender>female</gender>
+    </user>
+</users>

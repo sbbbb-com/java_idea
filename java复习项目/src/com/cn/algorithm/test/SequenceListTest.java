@@ -11,7 +11,14 @@ class SequenceListTest1 {
         //测试插入
         sl.insert("大狗");
         sl.insert("二毛");
+        sl.insert("三毛");
         sl.insert(1,"二尔");
+
+        for (String s:
+             sl) {
+            System.out.println(s);
+        }
+        System.out.println("====================");
         //测试获取
         String getResult=sl.get(1);
         System.out.println("获取到的第一个元素是"+getResult);

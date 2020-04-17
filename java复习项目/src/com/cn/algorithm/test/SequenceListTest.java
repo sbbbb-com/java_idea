@@ -2,7 +2,7 @@ package com.cn.algorithm.test;
 
 import com.cn.algorithm.linear.SequenceList;
 
-class SequenceListTest1 {
+class SequenceListTest {
 
     public static void main(String[] args) {
 

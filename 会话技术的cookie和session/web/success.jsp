@@ -7,5 +7,7 @@
 <body>
  <%=request.getSession().getAttribute("user")%>欢迎您
 
+<%=request.getSession().getId()%>  实验要求
+
 </body>
 </html>

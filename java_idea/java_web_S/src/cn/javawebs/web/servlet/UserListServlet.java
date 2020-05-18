@@ -2,7 +2,6 @@ package cn.javawebs.web.servlet;
 
 import cn.javawebs.domain.User;
 import cn.javawebs.service.UserService;
-import cn.javawebs.service.impl.UserServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

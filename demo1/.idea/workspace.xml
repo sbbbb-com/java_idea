@@ -29,53 +29,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceffd77d-0794-4b77-a32e-3826fd77dadb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/filter/Testfilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web_ss/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../过滤器基础/src/cn/yiyiersanwu/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../过滤器基础/src/cn/yiyiersanwu/servlet/MyServlet.java" afterDir="false" />
+    <list default="true" id="ceffd77d-0794-4b77-a32e-3826fd77dadb" name="Default Changelist" comment="我要死了">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_20___2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/dao/Jdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/dao/impl/JdpcImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/filter/MyListent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/demo1_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/demo1_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/demo1_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/demo1_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/demo1_war_exploded/user.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/JAR/JsoupXpath-0.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/JAR/jsoup-1.13.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/cn/bin/xml/student.dtd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/cn/bin/xml/student.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门_Element_xpath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门_Element对象功能.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门_Element对象功能_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/lib/Jsoup入门_Element选择器功能.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo1/user.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAR/JsoupXpath-0.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAR/jsoup-1.13.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/bin/xml/student.dtd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/bin/xml/student.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门_Element_xpath.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门_Element对象功能.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门_Element对象功能_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/Jsoup入门_Element选择器功能.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/yiyiersanwu/filter/Testfilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/filter/Testfilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/yiyiersanwu/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/yiyiersanwu/servlet/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/user.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../travel/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/src/main/webapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/target/classes/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/target/classes/druid.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../travel/target/tomcat/logs/access_log.2020-05-18" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/target/tomcat/logs/access_log.2020-05-18" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过滤器基础/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../过滤器基础/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过滤器基础/out/artifacts/_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../过滤器基础/out/artifacts/_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过滤器基础/out/production/过滤器基础/META-INF/过滤器基础.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过滤器基础/out/production/过滤器基础/cn/itcast/web/filter/FilterDemo17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../过滤器基础/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../过滤器基础/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../travel/travel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../travel/travel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_ss/.idea/artifacts/travel_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_ss/.idea/artifacts/travel_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_ss/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_ss/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_4.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,12 +80,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/JAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -127,25 +102,14 @@
       <recent name="lib" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\users\root\IdeaProjects\demo1\lib" />
+      <recent name="D:\users\root\IdeaProjects\demo1\web\WEB-INF\lib" />
       <recent name="D:\users\root\IdeaProjects\demo1\src\JAR" />
       <recent name="D:\users\root\IdeaProjects\demo1\src" />
       <recent name="D:\users\root\IdeaProjects\demo1\src\cn\bin\xml" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.50">
-    <configuration name="Jsoup入门_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lib.Jsoup入门_2" />
-      <module name="demo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.JdpcImpl">
     <configuration name="Jsoup入门_Element对象功能" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lib.Jsoup入门_Element对象功能" />
       <module name="demo1" />
@@ -194,6 +158,37 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdpcImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yiyiersanwu.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.yiyiersanwu.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.yiyiersanwu.dao.impl.JdpcImpl" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdpcImpl.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yiyiersanwu.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.yiyiersanwu.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="cn.yiyiersanwu.dao.impl.JdpcImpl" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -272,18 +267,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Jsoup入门_2" />
       <item itemvalue="Application.Jsoup入门_Element_xpath" />
       <item itemvalue="Application.Jsoup入门_Element对象功能" />
       <item itemvalue="Application.Jsoup入门_Element对象功能_2" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.50" />
+      <item itemvalue="JUnit.JdpcImpl.findAll" />
+      <item itemvalue="JUnit.JdpcImpl" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JdpcImpl" />
+        <item itemvalue="JUnit.JdpcImpl.findAll" />
         <item itemvalue="Application.Jsoup入门_Element_xpath" />
         <item itemvalue="Application.Jsoup入门_Element对象功能_2" />
         <item itemvalue="Application.Jsoup入门_Element对象功能" />
-        <item itemvalue="Application.Jsoup入门_2" />
       </list>
     </recent_temporary>
   </component>
@@ -301,8 +298,22 @@
       <workItem from="1583760783680" duration="1969000" />
       <workItem from="1583798669390" duration="13784000" />
       <workItem from="1583931852592" duration="107000" />
-      <workItem from="1590114218938" duration="7361000" />
+      <workItem from="1590114218938" duration="8111000" />
+      <workItem from="1590310158577" duration="28000" />
+      <workItem from="1590719717678" duration="1664000" />
+      <workItem from="1590734863157" duration="169000" />
+      <workItem from="1590759301506" duration="66000" />
+      <workItem from="1590843628245" duration="132000" />
+      <workItem from="1590968965270" duration="3124000" />
     </task>
+    <task id="LOCAL-00001" summary="我要死了">
+      <created>1590121696400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590121696401</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,63 +329,76 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我要死了" />
+    <option name="LAST_COMMIT_MESSAGE" value="我要死了" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590117257395">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1590117257395" />
-    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1590118504848">
+    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1590969313342">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1590118504848" />
-    <state width="1221" height="191" key="GridCell.Tab.0.bottom" timestamp="1590121479910">
+    <state x="574" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1590969313342" />
+    <state width="1221" height="266" key="GridCell.Tab.0.bottom" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.0.center" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.0.center" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.0.left" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.0.left" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.0.right" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.0.right" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.1.bottom" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.1.bottom" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.1.center" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.1.center" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.1.left" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.1.left" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.1.right" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.1.right" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.2.bottom" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.2.bottom" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.2.center" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.2.center" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.2.left" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.2.left" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
-    <state width="1221" height="191" key="GridCell.Tab.2.right" timestamp="1590121479910">
+    <state width="1221" height="266" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state width="1221" height="266" key="GridCell.Tab.2.right" timestamp="1590735033349">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1221" height="191" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1590121479910" />
+    <state width="1221" height="266" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1590735033349" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1590121806764">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1590121806764" />
+    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590972349626">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1590972349626" />
   </component>
 </project>

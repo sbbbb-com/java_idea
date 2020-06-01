@@ -84,22 +84,32 @@
             //1.获取姓名值
             var name=$("#name");
             //2.定义正则表达式
-            var reg_name=/^w+$/;
+            var reg_name=/^\S$/;
             //判读
+            var flag=reg_name.test(name);
             //校验姓名
+            if (flag){
+                //用户名合法
+                $("#name").css("border","")
+            }else {
+                //用户名非法，加一个红色的边框
+                $("#name").css("border", "2px solid red");
+            }
+            return flag;
         }
 
         $(function () {
             //checkUsername();
             //当表单提交时，调用所有的校验方法
             $("#registerForm").submit(function () {
-                return checkUsername() && checkPassword() && checkEmail();
+                return checkUsername() && checkPassword() && checkEmail() && checkName();
                 //如果这个方法没有返回值，或者返回值为true，则表单提交，如果返回false，则表单不提交
             });
             //当某一个组件失去焦点时，调用对应的校验方法
             $("#username").blur(checkUsername);
             $("#password").blur(checkPassword);
             $("#email").blur(checkEmail);
+            $("#name").blur(checkName);
 
         });
 

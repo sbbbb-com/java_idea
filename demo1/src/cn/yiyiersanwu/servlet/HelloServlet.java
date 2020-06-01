@@ -12,10 +12,10 @@ import java.io.IOException;
 public class HelloServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //定义字符串
-        String sess="Hello Servlet";
+        String string="Hello Servlet";
 
         //输出字符串
-        response.getWriter().write(sess);
+        response.getWriter().write(string);
 
     }
 
